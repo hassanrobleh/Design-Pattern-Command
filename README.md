@@ -10,7 +10,7 @@ file d’attente ou d’annuler des opérations effectuées.
 # Getting Started
 
 ```bash
-$ git clone https://github.com/hassanrobleh/Design-Pattern-Factory-Method.git
+$ git clone https://github.com/hassanrobleh/Design-Pattern-Command.git
 $ cd Design_pattern-Abstract-Factory
 $ npm install
 $ npm run test
