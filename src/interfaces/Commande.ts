@@ -1,0 +1,4 @@
+interface Commande {
+
+    executer(): any;
+}
