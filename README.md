@@ -6,3 +6,12 @@ qui contient tous les détails de cette action. Cette
 transformation permet de paramétrer des méthodes avec différentes
 actions, planifier leur exécution, les mettre dans une
 file d’attente ou d’annuler des opérations effectuées.
+
+# Getting Started
+
+```bash
+$ git clone https://github.com/hassanrobleh/Design-Pattern-Factory-Method.git
+$ cd Design_pattern-Abstract-Factory
+$ npm install
+$ npm run test
+```
