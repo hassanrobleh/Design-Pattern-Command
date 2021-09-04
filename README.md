@@ -11,7 +11,7 @@ file d’attente ou d’annuler des opérations effectuées.
 
 ```bash
 $ git clone https://github.com/hassanrobleh/Design-Pattern-Command.git
-$ cd Design_pattern-Abstract-Factory
+$ cd Design-Pattern-Command
 $ npm install
 $ npm run test
 ```
